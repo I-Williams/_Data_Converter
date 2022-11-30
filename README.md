@@ -4,7 +4,7 @@
  A data converter that scapes data such as movie ranking, title, etc from an example movie box office html file using Flask, BeautifulSoup, and Pandas libraries saves the data to a csv file and converts it into a table. 
 
 ## URL
-https://dataconverter.herokuapp.com
+https://dataconverter.onrender.com/
 
 ## Preview
 ![1](https://user-images.githubusercontent.com/57849511/172126666-6ac41e1b-758d-4e91-83ec-d43c860ffb01.png)
